@@ -1,0 +1,34 @@
+C:\Users\lipta\OneDrive\Asztali gép\crafthack\crafthack_botlines\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.csproj.AssemblyReference.cache
+C:\Users\lipta\OneDrive\Asztali gép\crafthack\crafthack_botlines\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.Form1.resources
+C:\Users\lipta\OneDrive\Asztali gép\crafthack\crafthack_botlines\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.csproj.GenerateResource.cache
+C:\Users\lipta\OneDrive\Asztali gép\crafthack\crafthack_botlines\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lipta\OneDrive\Asztali gép\crafthack\crafthack_botlines\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.AssemblyInfoInputs.cache
+C:\Users\lipta\OneDrive\Asztali gép\crafthack\crafthack_botlines\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.AssemblyInfo.cs
+C:\Users\lipta\OneDrive\Asztali gép\crafthack\crafthack_botlines\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.csproj.CoreCompileInputs.cache
+C:\Users\lipta\OneDrive\Asztali gép\crafthack\crafthack_botlines\crafthack_botlines\bin\Debug\net6.0-windows\crafthack_botlines.exe
+C:\Users\lipta\OneDrive\Asztali gép\crafthack\crafthack_botlines\crafthack_botlines\bin\Debug\net6.0-windows\crafthack_botlines.deps.json
+C:\Users\lipta\OneDrive\Asztali gép\crafthack\crafthack_botlines\crafthack_botlines\bin\Debug\net6.0-windows\crafthack_botlines.runtimeconfig.json
+C:\Users\lipta\OneDrive\Asztali gép\crafthack\crafthack_botlines\crafthack_botlines\bin\Debug\net6.0-windows\crafthack_botlines.dll
+C:\Users\lipta\OneDrive\Asztali gép\crafthack\crafthack_botlines\crafthack_botlines\bin\Debug\net6.0-windows\crafthack_botlines.pdb
+C:\Users\lipta\OneDrive\Asztali gép\crafthack\crafthack_botlines\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.dll
+C:\Users\lipta\OneDrive\Asztali gép\crafthack\crafthack_botlines\crafthack_botlines\obj\Debug\net6.0-windows\refint\crafthack_botlines.dll
+C:\Users\lipta\OneDrive\Asztali gép\crafthack\crafthack_botlines\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.pdb
+C:\Users\lipta\OneDrive\Asztali gép\crafthack\crafthack_botlines\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.genruntimeconfig.cache
+C:\Users\lipta\OneDrive\Asztali gép\crafthack\crafthack_botlines\crafthack_botlines\obj\Debug\net6.0-windows\ref\crafthack_botlines.dll
+C:\Users\vityaatya\Downloads\crfthack_botlines_bended\crafthack_botlines\bin\Debug\net6.0-windows\crafthack_botlines.exe
+C:\Users\vityaatya\Downloads\crfthack_botlines_bended\crafthack_botlines\bin\Debug\net6.0-windows\crafthack_botlines.deps.json
+C:\Users\vityaatya\Downloads\crfthack_botlines_bended\crafthack_botlines\bin\Debug\net6.0-windows\crafthack_botlines.runtimeconfig.json
+C:\Users\vityaatya\Downloads\crfthack_botlines_bended\crafthack_botlines\bin\Debug\net6.0-windows\crafthack_botlines.dll
+C:\Users\vityaatya\Downloads\crfthack_botlines_bended\crafthack_botlines\bin\Debug\net6.0-windows\crafthack_botlines.pdb
+C:\Users\vityaatya\Downloads\crfthack_botlines_bended\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.csproj.AssemblyReference.cache
+C:\Users\vityaatya\Downloads\crfthack_botlines_bended\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.Form1.resources
+C:\Users\vityaatya\Downloads\crfthack_botlines_bended\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.csproj.GenerateResource.cache
+C:\Users\vityaatya\Downloads\crfthack_botlines_bended\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vityaatya\Downloads\crfthack_botlines_bended\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.AssemblyInfoInputs.cache
+C:\Users\vityaatya\Downloads\crfthack_botlines_bended\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.AssemblyInfo.cs
+C:\Users\vityaatya\Downloads\crfthack_botlines_bended\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.csproj.CoreCompileInputs.cache
+C:\Users\vityaatya\Downloads\crfthack_botlines_bended\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.dll
+C:\Users\vityaatya\Downloads\crfthack_botlines_bended\crafthack_botlines\obj\Debug\net6.0-windows\refint\crafthack_botlines.dll
+C:\Users\vityaatya\Downloads\crfthack_botlines_bended\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.pdb
+C:\Users\vityaatya\Downloads\crfthack_botlines_bended\crafthack_botlines\obj\Debug\net6.0-windows\crafthack_botlines.genruntimeconfig.cache
+C:\Users\vityaatya\Downloads\crfthack_botlines_bended\crafthack_botlines\obj\Debug\net6.0-windows\ref\crafthack_botlines.dll
